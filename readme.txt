@@ -6,7 +6,7 @@ Requires at least: 3.2
 Tested up to: 3.2
 Stable tag: 1.0
 
-Feedback Screen with Annotation enables visitor to send feedback about your website page with some annotation and the screenshot generated automatically.
+Enables visitor to send feedback about your website page with some annotation and the screenshot generated automatically.
 
 == Description ==
 
